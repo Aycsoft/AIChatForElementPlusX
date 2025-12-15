@@ -166,13 +166,3 @@ app.mount('#app');
 <a href="https://github.com/element-plus-x/Element-Plus-X/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=element-plus-x/Element-Plus-X" />
 </a>
-
-## 👥 社区支持
-
-<div align="center">
-<img src="https://cdn.element-plus-x.com/vx-2025-07-28.png" alt="微信交流群" width="180" style="margin: 20px;" />
-<p>加入微信交流群，获取最新动态和技术支持</p>
-
-<p>交流群如果过期或者失效，可以添加作者 vx</p>
-<img src="https://cdn.element-plus-x.com/element-plus-x-author-vx.png" alt="作者vx" width="180" style="margin: 20px;" />
-</div>
