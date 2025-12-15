@@ -157,12 +157,3 @@ app.mount('#app');
 - 📝 文档完善
 - 🎨 样式优化
 
-## 👥 贡献者
-
-<a href="https://openomy.app/github/element-plus-x/Element-Plus-X" target="_blank" style="display: block; width: 100%;" align="center">
-  <img src="https://openomy.app/svg?repo=element-plus-x/Element-Plus-X&chart=bubble&latestMonth=3" target="_blank" alt="Contribution Leaderboard" style="display: block; width: 100%;" />
- </a>
-
-<a href="https://github.com/element-plus-x/Element-Plus-X/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=element-plus-x/Element-Plus-X" />
-</a>
